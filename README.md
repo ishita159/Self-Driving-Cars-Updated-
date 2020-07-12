@@ -8,7 +8,7 @@ The goals / steps of this project are the following:
 
 ## **Reflection**
 
-### **1. Overview of the pipeline and draw_lines() function**
+### **1. Overview of the pipeline**
 
 The software pipeline I designed consists of the following steps:
 * Read the image input and convert it to grayscale. This is done by invoking the `grayscale(image)` function. This function basically uses OpenCV to convert the RGB colorspaced image to grayscale and returns the grayscale image.
