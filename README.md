@@ -6,6 +6,12 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Identify spaces for improvement and make important observations
 
+## Dependencies
+* Python 3.5
+* NumPy
+* OpenCV
+* Matplotlib
+
 ## **Reflection**
 
 ### **1. Overview of the pipeline**
